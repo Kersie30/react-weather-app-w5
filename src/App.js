@@ -1,6 +1,6 @@
-import React from 'react';
-import './App.css';
-import Weather from './Weather';
+import React from "react";
+import "./App.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
@@ -8,23 +8,23 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Manchester" />
         <footer>
-          This project was coded by{' '}
+          This project was coded by{" "}
           <a
             href="https://www.linkedin.com/in/saffron-williamson/"
             target="_blank"
             rel="noreferrer"
           >
-            Saffron Williamson
+            Kersie karuma
           </a>
-          , open sourced on{' '}
+          , open sourced on{" "}
           <a
-            href="https://github.com/SaffronWilliamson/react-weather-app-final"
+            href="https://github.com/kersie30/react-weather-app-final"
             target="_blank"
             rel="noreferrer"
           >
             GitHub
           </a>
-          , and hosted on{' '}
+          , and hosted on{" "}
           <a
             href="https://react-weather-app-final.netlify.app/"
             target="_blank"
