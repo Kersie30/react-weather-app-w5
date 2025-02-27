@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.linkedin.com/in/saffron-williamson/"
+            href="https://www.linkedin.com/in/keresia karuma/"
             target="_blank"
             rel="noreferrer"
           >
